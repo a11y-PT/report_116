@@ -1,6 +1,6 @@
 ---
 website: "Município da Moita"          # Entre as aspas escreve o nome do website
-date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
+date: "13/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.cm-moita.pt"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://www.cm-moita.pt/acessibilidade-55" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
 owner: "CM da Moita"         # Entre as aspas escrever o nome do owner do website
@@ -29,7 +29,7 @@ Consulte aqui a última atualização: [Relatório {{ page.website }}](report.ht
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="ddmmaaaa_report.html">(dd/mm/aaaa). Relatório {{ page.website }}</a></li>
+    <li><a href="13072026_report.html">(13/07/2026). Relatório {{ page.website }}</a></li>
   </ul>
 </details>
 
