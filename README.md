@@ -2,7 +2,8 @@
 website: "Município da Moita"          # Entre as aspas escreve o nome do website
 date: "13/07/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://www.cm-moita.pt"   # Entre as aspas escreve o domínio do website
-a11y_statement: "https://www.cm-moita.pt/acessibilidade-55" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+a11y_statement: "https://www.cm-moita.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+a11y_statement_date: "08/09/2026"  # Entre as aspas escreve a data da Declaração de Acessibilidade
 owner: "CM da Moita"         # Entre as aspas escrever o nome do owner do website
 seal: "Ouro"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "08/09/2026 a 08/09/2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
